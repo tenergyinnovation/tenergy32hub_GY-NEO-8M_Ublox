@@ -1,2 +1,2 @@
-# tenergy32hub_GY-NEO-8M_Ublox
-tenergy32hub_GY-NEO-8M_Ublox
+# smartbuilding360hub
+Example code Smart Building 360 Hub IoT board
