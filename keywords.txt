@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For Tenergy32Hub_GY_NEO_8M
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tenergy32Hub_GY_NEO_8M	KEYWORD1
+GPSData	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+available	KEYWORD2
+readGPS	KEYWORD2
+readNMEA	KEYWORD2
+enableGGA	KEYWORD2
+enableRMC	KEYWORD2
+setBaudRate	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+valid	LITERAL1
+latitude	LITERAL1
+longitude	LITERAL1
+altitude	LITERAL1
+speed	LITERAL1
+satellites	LITERAL1
+time	LITERAL1
+date	LITERAL1
