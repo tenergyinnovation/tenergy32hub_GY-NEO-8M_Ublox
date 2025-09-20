@@ -18,3 +18,5 @@ lib/ArduinoJson/
 lib/Debounce/
 lib/EasyButton/
 lib/README
+README_temp.md
+lib/TinyGPSPlus/

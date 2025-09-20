@@ -29,6 +29,7 @@ set REPO_URLS=^
     "https://github.com/wkoch/Debounce.git" ^
     "https://github.com/evert-arias/EasyButton.git" ^
     "https://github.com/bblanchon/ArduinoJson.git" ^
+    "https://github.com/mikalhart/TinyGPSPlus.git" ^
 
 REM Create the target directory if it doesn't exist
 if not exist "%TARGET_DIR%" mkdir "%TARGET_DIR%"

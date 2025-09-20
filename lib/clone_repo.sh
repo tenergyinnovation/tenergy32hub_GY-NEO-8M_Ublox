@@ -32,6 +32,7 @@ REPO_URLS=(
     "https://github.com/wkoch/Debounce.git"
     "https://github.com/evert-arias/EasyButton.git"
     "https://github.com/bblanchon/ArduinoJson.git"
+    "https://github.com/mikalhart/TinyGPSPlus.git"
 )
 
 for REPO_URL in "${REPO_URLS[@]}"; do
